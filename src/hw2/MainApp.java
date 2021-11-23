@@ -22,7 +22,7 @@ public class MainApp {
         System.out.println(leapYear(12));
 
 
-        int i = 7;
+        int i = 3;
         printExpression(i);
 
 
