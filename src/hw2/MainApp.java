@@ -43,6 +43,7 @@ public class MainApp {
     }
 
     public static boolean negativ(int c) {
+
         return (c < 0);
     }
 
