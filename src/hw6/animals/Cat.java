@@ -12,7 +12,7 @@ public class Cat extends Animal {
         System.out.println(name + " can't swim");
     }
     public void run(){
-        System.out.println(name + " 155 m");
+        System.out.println(name + " run 155 m");
     }
 }
 

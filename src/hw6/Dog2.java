@@ -12,6 +12,6 @@ public class Dog2 extends Animal {
     }
 
     public void run() {
-        System.out.println(name + " 490 m");
+        System.out.println(name + " run 490 m");
     }
 }

@@ -12,7 +12,7 @@ public class Cat2 extends Animal {
     }
 
     public void run() {
-        System.out.println(name + " 180 m");
+        System.out.println(name + " run 180 m");
     }
 }
 
